@@ -1,0 +1,16 @@
+{
+  "name": "backend_project",
+  "version": "1.0.0",
+  "description": "\"creating a complex backend project in the guidance of hitsh choudhary sir -youtube'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "'node",
+    "js'",
+    "'backend'"
+  ],
+  "author": "",
+  "license": "ISC"
+}
