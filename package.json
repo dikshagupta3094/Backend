@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "\"creating a complex backend project in the guidance of hitsh choudhary sir -youtube'",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon src/index.js"
   },
   "keywords": [
     "'node",
@@ -12,5 +13,8 @@
     "'backend'"
   ],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
 }
